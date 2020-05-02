@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>
+			DOCKER PROJECT
+		</title>
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css') }}">
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"> </script>
+	</head>
+
+	<body>
+		<h1>AUTHENTICATE YOUR FACE</h1>
+		<h2>Click the button below</h2>
+		<form action="/result" method="POST" enctype="multipart/form-data">
+    		<input type="submit" value="Submit">
+		</form>
+	</body>
+</html>

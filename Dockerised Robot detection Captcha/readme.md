@@ -15,4 +15,6 @@ Technologies used:
 
 Mentor: Mr. Vimal Daga
 
+Project by: Pratik Mukherjee (IIEC RISE ID: <b>ID-RISE 2020.44.5.2</b>)
+
 Hope that you like my project. In future I will improve it and thought of deploying it too.
